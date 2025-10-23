@@ -1,4 +1,3 @@
-import { motion } from 'motion/react';
 import Logo from '@/components/Logo';
 import { footerData } from '@/constants';
 
