@@ -2,7 +2,7 @@
 
 A modern, all-in-one analytics platform built with React, TypeScript, and Vite. AnalytiX provides powerful user analytics capabilities to help businesses gain valuable insights into user behavior and make data-driven decisions.
 
-![AnalytiX Dashboard](src/assets/hero-banner.png)
+![AnalytiX Dashboard](https://github.com/SahilKundu19/Analytix/blob/7540cbeb7a54b0cb45f668145f0c46cefa96943d/screencapture-analytix-sooty-vercel-app-2025-10-23-11_57_22.png)
 
 ## 🚀 Features
 
